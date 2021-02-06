@@ -6,5 +6,4 @@
       - Coding competition with logic\
       - Love the competition\
 
-<br/>
 ### My skills
