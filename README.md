@@ -1,10 +1,10 @@
 ### Hi there, I'm Frame 👋
 
 ### I'm web developer, Full stack developer!!
-  Short about me. <br/>
-      - Web developer, full stack <br/>
-      - Coding competition with logic <br/>
-      - Love the competition <br/>
+  Short about me.\
+      - Web developer, full stack\
+      - Coding competition with logic\
+      - Love the competition\
 
 <br/>
 ### My skills
