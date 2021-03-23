@@ -2,12 +2,11 @@
 #### I'm web developer, Full stack developer!!
 
 ##### Short about me.
-- #####  Web developer, full stack 
-- #####  Coding competition with logic
-- #####  Love the competition
-### `My skills `🔥
+- #####  Web developer, &nbsp;&nbsp;full stack 
+- #####  Coding competition
+### My skills 🔥
 
-#### Programming
+#### `Programming`
 - ##### Python
 - ##### Java &nbsp;&nbsp;(swing gui)
 - ##### Javascript
@@ -15,3 +14,7 @@
     - ###### Next
     - ###### Node
 - ##### PHP (pure)
+#### `DB`
+- ##### SQL
+- ##### Mongo
+- ##### Firebase
