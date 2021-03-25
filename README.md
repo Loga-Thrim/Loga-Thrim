@@ -1,5 +1,6 @@
 ## Hi there, I'm Frame 👋
-#### I'm web developer, Full stack developer!!
+#### I'm studying in computer science (second year).
+#### Pibulsongkram Rajabhat university
 
 ##### Short about me.
 - #####  Web developer, &nbsp;&nbsp;full stack 
