@@ -25,5 +25,5 @@
 
 ### Contact
 - ##### gfd7812548965@gmail.com
-- ##### 0979570661 (phone number)
+- ##### 0979570661 (Phone number)
 - ##### godframedark (Line id)
