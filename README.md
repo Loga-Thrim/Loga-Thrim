@@ -3,7 +3,7 @@
 #### Pibulsongkram Rajabhat university
 
 ##### Short about me.
-- #####  Web developer, &nbsp;&nbsp;Full stack developer
+- #####  Full stack developer
 - #####  Coding competition
 ### My skills 🔥
 
