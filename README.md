@@ -10,11 +10,14 @@
 - ##### Python
 - ##### Java &nbsp;&nbsp;(swing gui)
 - ##### Javascript
-    - ###### React
+    - ###### React (components & hooks, recoil, jwt)
     - ###### Next
-    - ###### Node
+    - ###### Node (ejs, express)
 - ##### PHP (pure)
 #### `DB`
 - ##### SQL
 - ##### Mongo
 - ##### Firebase
+#### `Tools`
+- ##### Git
+- ##### Heroku
