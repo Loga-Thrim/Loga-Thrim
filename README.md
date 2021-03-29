@@ -11,7 +11,7 @@
 - ##### Python
 - ##### Java &nbsp;&nbsp;(swing gui)
 - ##### Javascript
-    - ###### React (components & hooks, recoil, jwt)
+    - ###### React (components & hooks, recoil)
     - ###### Next
     - ###### Node (ejs, express)
 - ##### PHP (pure)
