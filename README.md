@@ -10,11 +10,11 @@
 - ##### Python
 - ##### Java &nbsp;&nbsp;(swing gui)
 - ##### Javascript
-    - ###### React (components & hooks, recoil)
+    - ###### React
     - ###### Next
     - ###### Vue
     - ###### Jquery
-    - ###### Node (ejs, express)
+    - ###### Node
 - ##### PHP (pure)
 #### `DB`
 - ##### SQL
