@@ -1,7 +1,6 @@
 ## Hi there, I'm Frame 👋
-#### I'm studying in computer science (second year).
-#### Pibulsongkram Rajabhat university
 
+### currently working as a front-end developer
 ##### Short about me.
 - #####  Full stack developer
 - #####  Coding competition
@@ -13,6 +12,8 @@
 - ##### Javascript
     - ###### React (components & hooks, recoil)
     - ###### Next
+    - ###### Vue
+    - ###### Jquery
     - ###### Node (ejs, express)
 - ##### PHP (pure)
 #### `DB`
