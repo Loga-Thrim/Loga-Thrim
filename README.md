@@ -13,6 +13,7 @@
     - ###### React
     - ###### Next
     - ###### Vue
+    - ###### Angular
     - ###### Jquery
     - ###### Node
 - ##### PHP (pure)
