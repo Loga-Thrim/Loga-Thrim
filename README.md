@@ -4,7 +4,7 @@
 ##### Short about me.
 - #####  Full stack developer
 - #####  Coding competition
-### My skills 🔥
+### Skills 🔥
 
 #### `Programming`
 - ##### Python
