@@ -1,8 +1,8 @@
 ## Hi there, I'm Frame 👋
 
-### currently working as a front-end developer
+### currently working as a Software Engineer at Refinitiv LSEG
 ##### Short about me.
-- #####  Full stack developer
+- #####  Fullstack developer
 - #####  Coding competition
 ### Skills 🔥
 
