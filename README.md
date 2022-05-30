@@ -9,21 +9,25 @@
 #### `Programming`
 - ##### Python
 - ##### Java &nbsp;&nbsp;(swing gui)
+- ##### Dart
+    - ###### Flutter
 - ##### Javascript
     - ###### React
     - ###### Next
     - ###### Vue
     - ###### Angular
     - ###### Jquery
+    - ###### Electron
+    - ###### Typescript
     - ###### Node
 - ##### PHP (pure)
 #### `DB`
 - ##### SQL
 - ##### Mongo
-- ##### Firebase
 #### `Tools`
 - ##### Git
 - ##### Heroku
+- ##### Firebase
 
 ### Contact
 - ##### gfd7812548965@gmail.com
