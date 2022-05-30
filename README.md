@@ -6,7 +6,7 @@
 - #####  Coding competition
 ### Skills 🔥
 
-#### `Programming`
+#### `Programming language`
 - ##### Python
 - ##### Java &nbsp;&nbsp;(swing gui)
 - ##### Dart
