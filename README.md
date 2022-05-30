@@ -15,6 +15,7 @@
     - ###### React
     - ###### Next
     - ###### Vue
+    - ###### Nuxt
     - ###### Angular
     - ###### Jquery
     - ###### Electron
