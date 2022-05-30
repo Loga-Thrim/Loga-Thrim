@@ -21,7 +21,7 @@
     - ###### Electron
     - ###### Typescript
     - ###### Node
-- ##### PHP (pure)
+- ##### PHP
 #### `DB`
 - ##### SQL
 - ##### Mongo
