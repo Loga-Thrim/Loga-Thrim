@@ -1,6 +1,6 @@
 ## Hi there, I'm Frame 👋
 
-### currently working as a Software Engineer at Refinitiv LSEG
+### currently working as a Software Engineer at Taishi
 ##### Short about me.
 - #####  Fullstack developer
 - #####  Coding competition
@@ -17,14 +17,15 @@
     - ###### Vue
     - ###### Nuxt
     - ###### Angular
-    - ###### Webpack
     - ###### Jquery
     - ###### Electron
     - ###### Typescript
     - ###### Node
+    - ###### Nest
 - ##### PHP
 #### `DB`
 - ##### SQL
+- ##### PostgreSQL
 - ##### Mongo
 #### `Tools`
 - ##### Git
@@ -34,5 +35,4 @@
 
 ### Contact
 - ##### gfd7812548965@gmail.com
-- ##### 0979570661 (Phone number)
-- ##### godframedark (Line id)
+- ##### +66 623963621 (Phone number)
