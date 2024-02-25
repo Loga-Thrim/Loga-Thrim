@@ -2,7 +2,7 @@
 
 ### currently working as a Software Engineer at Taishi
 ##### Short about me.
-- #####  Fullstack developer
+- #####  Software Engineer
 - #####  Coding competition
 ### Skills 🔥
 
@@ -23,6 +23,7 @@
     - ###### Node
     - ###### Nest
 - ##### PHP
+    - ###### CodeIgniter
 #### `DB`
 - ##### SQL
 - ##### PostgreSQL
@@ -32,6 +33,8 @@
 - ##### Docker
 - ##### Heroku
 - ##### Firebase
+- ##### AWS
+- ##### Azure
 
 ### Contact
 - ##### gfd7812548965@gmail.com
