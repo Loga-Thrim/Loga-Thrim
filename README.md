@@ -11,30 +11,18 @@
 - ##### Java &nbsp;&nbsp;(swing gui)
 - ##### Dart
     - ###### Flutter
+
 - ##### Javascript
-    - ###### React
-    - ###### Next
-    - ###### Vue
-    - ###### Nuxt
-    - ###### Angular
-    - ###### Jquery
-    - ###### Electron
-    - ###### Typescript
-    - ###### Node
-    - ###### Nest
+    - React, Next, Vue, Nuxt, Angular, Jquery, Electron, Typescript, Node, Nest
+
 - ##### PHP
     - ###### CodeIgniter
+
 #### `DB`
-- ##### SQL
-- ##### PostgreSQL
-- ##### Mongo
+- SQL, PostgreSQL, MongoDB
+
 #### `Tools`
-- ##### Git
-- ##### Docker
-- ##### Heroku
-- ##### Firebase
-- ##### AWS
-- ##### Azure
+- AWS, Azure, Git, Docker, Heroku, Firebase
 
 ### Contact
 - ##### gfd7812548965@gmail.com
