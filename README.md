@@ -1,6 +1,6 @@
 ## Hi there, I'm Frame 👋
 
-### currently working as a Software Engineer at Taishi
+### currently working as a Software Engineer
 ##### Short about me.
 - #####  Software Engineer
 - #####  Coding competition
@@ -26,4 +26,4 @@
 
 ### Contact
 - ##### gfd7812548965@gmail.com
-- ##### +66 623963621 (Phone number)
+- ##### +66 979570661 (Phone number)
